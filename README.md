@@ -1,51 +1,15 @@
 # ConsultingJoe
 
-I build practical tools, experiments, and automation-focused projects across software, hardware, speech, imaging, and device integration.
+I build practical software, hardware, and automation solutions with a focus on real-world systems, industrial environments, and fast-moving technical problem solving.
 
-## Recent Projects
+## Skills
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ConsultingJoe/FlipRSDR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ConsultingJoe&repo=FlipRSDR" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ConsultingJoe/FlipPar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ConsultingJoe&repo=FlipPar" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ConsultingJoe/FlipIRFreq">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ConsultingJoe&repo=FlipIRFreq" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ConsultingJoe/printer_levels">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ConsultingJoe&repo=printer_levels" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ConsultingJoe/AXIS_VAPIX_API_TOOLS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ConsultingJoe&repo=AXIS_VAPIX_API_TOOLS" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ConsultingJoe/Speech2Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ConsultingJoe&repo=Speech2Model" />
-      </a>
-    </td>
-  </tr>
-</table>
+- Full-stack application development with Node.js, Python, JavaScript, PHP, React, and Electron
+- Industrial automation, device integration, and tools that connect software with physical systems
+- Computer vision, AI-assisted workflows, imaging, sensor systems, and rapid prototyping
+- API design, real-time systems, embedded workflows, and operational dashboards
+- Linux systems, networking, databases, and production-ready troubleshooting across hardware and software
 
-## What I Work On
+## Background
 
-- Embedded and device-focused tooling
-- API integrations and utility libraries
-- Speech, automation, and workflow experiments
-- Fast prototypes that solve real operational problems
+My work spans software engineering, industrial systems, embedded tooling, and applied automation. I have contributed across product development, manufacturing technology, building automation, and customer-facing technical systems, with experience that includes Apple, Schneider Electric, W.H. Leary, and consulting-led engineering work.

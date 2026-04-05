@@ -1,6 +1,16 @@
-# ConsultingJoe
+<p align="center">
+  <a href="https://consultingjoe.com">
+    <img src="./Banner.png" alt="ConsultingJoe banner" />
+  </a>
+</p>
 
-I build practical software, hardware, and automation solutions with a focus on real-world systems, industrial environments, and fast-moving technical problem solving.
+<h2 align="center">
+  <a href="https://consultingjoe.com">ConsultingJoe.com</a>
+</h2>
+
+<p align="center">
+  I build practical software, hardware, and automation solutions with a focus on real-world systems, industrial environments, and fast-moving technical problem solving.
+</p>
 
 ## Skills
 
